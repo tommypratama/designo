@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+  }
+}
